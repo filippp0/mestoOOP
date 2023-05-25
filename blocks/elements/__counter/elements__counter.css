@@ -1,0 +1,12 @@
+.elements__counter {
+  text-align: center;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15.73px;
+  color: var(--dark-color);
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
